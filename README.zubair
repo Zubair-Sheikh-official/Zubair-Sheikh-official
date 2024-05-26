@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src=https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif alt="Header GIF" width="800" height="400">
+  <img src="https://github.com/Zubair-Sheikh-official/Zubair-Sheikh-official/raw/main/assets/header.gif" alt="Header GIF" width="800" height="400">
 </p>
 
 <!-- About Me -->
@@ -9,16 +9,9 @@
 <!-- Skills -->
 <h2 align="center">🚀 Skills</h2>
 <p align="center">
-  <img src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png" alt="C Logo" width="50" height="50">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAfi5VYrwspzJmXVqKGCqmUg5uoZKJDXk-Xz1X-v492A&s" alt="C++ Logo" width="50" height="50">
+  <img src="https://github.com/Zubair-Sheikh-official/Zubair-Sheikh-official/raw/main/assets/c_logo.png" alt="C Logo" width="50" height="50">
+  <img src="https://github.com/Zubair-Sheikh-official/Zubair-Sheikh-official/raw/main/assets/cpp_logo.png" alt="C++ Logo" width="50" height="50">
   <!-- Add more skill logos here -->
-</p>
-
-<!-- Skills with Color and Design -->
-<p align="center">
-  <span style="background-color: #ff0000; color: #ffffff; padding: 5px; border-radius: 5px;">C</span>
-  <span style="background-color: #ff8000; color: #ffffff; padding: 5px; border-radius: 5px;">C++</span>
-  <!-- Add more skills with custom colors and designs here -->
 </p>
 
 <!-- Contact Me -->
@@ -32,5 +25,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif" alt="Footer GIF" width="800" height="200">
+  <img src="https://github.com/Zubair-Sheikh-official/Zubair-Sheikh-official/raw/main/assets/footer.gif" alt="Footer GIF" width="800" height="200">
 </p>
