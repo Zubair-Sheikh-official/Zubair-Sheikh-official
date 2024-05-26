@@ -1,24 +1,36 @@
-🌟 About Me
+<!-- Header -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Header GIF" width="800" height="400">
+</p>
 
-I'm Md Zubair Alam, an enthusiastic undergraduate student pursuing B.Tech in Computer Science and Engineering. I have a passion for learning and exploring new technologies, and I'm always eager to take on new challenges.
+<!-- About Me -->
+<h1 align="center">👋 Hi there, I'm Md Zubair Alam</h1>
 
-🚀 Skills
+<!-- Skills -->
+<h2 align="center">🚀 Skills</h2>
+<p align="center">
+  <img src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png" alt="C Logo" width="50" height="50">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAfi5VYrwspzJmXVqKGCqmUg5uoZKJDXk-Xz1X-v492A&s" alt="C++ Logo" width="50" height="50">
+  <!-- Add more skill logos here -->
+</p>
 
-Programming Languages: C, C++, CSHARP, .NET, HTML, CSS, PYTHON
-Tools & Technologies: GITHUB, GIT, GOOGLE CLOUD, CANVA, COREL DRAW, ADOBE PHOTOSHOP, GOOGLE ANALYTICS
-Soft Skills: LEADERSHIP, COMMUNICATION SKILLS, PROBLEM SOLVING, TIME MANAGEMENT, CREATIVE & INNOVATIVE, NETWORKING, WORK ETHICS, TEAM WORK
+<!-- Skills with Color and Design -->
+<p align="center">
+  <span style="background-color: #ff0000; color: #ffffff; padding: 5px; border-radius: 5px;">C</span>
+  <span style="background-color: #ff8000; color: #ffffff; padding: 5px; border-radius: 5px;">C++</span>
+  <!-- Add more skills with custom colors and designs here -->
+</p>
 
-🛠️ Projects
+<!-- Contact Me -->
+<h2 align="center">📫 Contact Me</h2>
+<p align="center">
+  Email: <a href="mailto:mdzubairalam.hamdard@gmail.com">mdzubairalam.hamdard@gmail.com</a><br>
+  LinkedIn: <a href="https://www.linkedin.com/in/md-zubair-alam-">md-zubair-alam</a><br>
+  GitHub: <a href="https://github.com/Zubair-Sheikh-official">Zubair-Sheikh-official</a><br>
+  <!-- Add more contact details here -->
+</p>
 
---> Traffic Sign Detection Model: Developed a machine learning model to detect traffic signs, aiming to reduce road accidents.
---> Enhancing Stock Price Prediction with Deep Reinforcement Learning: Presented a paper at the International Conference on Smart Technology, Artificial Intelligence and Computer Engineering (ICSTAICE) on enhancing stock price prediction using deep reinforcement learning.
---> Affects of Radiations on Human Health: Investigated the effects of radiation on human health, presenting findings at state and national-level science fairs.
-
-📫 Contact Me
-
-Email: mdzubairalam.hamdard@gmail.com
-LinkedIn: md-zubair-alam
-GitHub: Zubair-Sheikh-official
-Twitter: Zubair_Sheikh__
-Facebook: Zubair.Sheikh.Official
-Instagram: zubair_sheikh__official
+<!-- Footer -->
+<p align="center">
+  <img src="YOUR_FOOTER_GIF_URL" alt="Footer GIF" width="800" height="200">
+</p>
